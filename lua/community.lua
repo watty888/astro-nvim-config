@@ -9,4 +9,5 @@ return {
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.prettier" },
   { import = "astrocommunity.pack.eslint" },
+  { import = "astrocommunity.completion.avante-nvim" },
 }
