@@ -1,5 +1,6 @@
 {
   "AstroNvim": { "branch": "main", "commit": "55a2b084eabe880c4ffa377f82bb972caec57e09" },
+  "CopilotChat.nvim": { "branch": "main", "commit": "2f3e07398ba81ccc0cf3d1fca9805aaca126264e" },
   "LuaSnip": { "branch": "master", "commit": "458560534a73f7f8d7a11a146c801db00b081df0" },
   "aerial.nvim": { "branch": "master", "commit": "6ab1a0ce4874d21610fc5a67a6c82c7b943c635b" },
   "astrocommunity": { "branch": "main", "commit": "31ddaa3f8a2847cb0227432817bb48ba9a300d06" },

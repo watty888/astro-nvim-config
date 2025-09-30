@@ -8,4 +8,6 @@ return {
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.prettier" },
+  { import = "astrocommunity.pack.eslint" },
+  { import = "astrocommunity.editing-support.copilotchat-nvim" },
 }
