@@ -11,4 +11,5 @@ return {
   { import = "astrocommunity.pack.eslint" },
   { import = "astrocommunity.completion.avante-nvim" },
   { import = "astrocommunity.split-and-window.minimap-vim" },
+  { import = "astrocommunity.note-taking.obsidian-nvim" },
 }
