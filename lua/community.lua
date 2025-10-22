@@ -13,4 +13,6 @@ return {
   { import = "astrocommunity.split-and-window.minimap-vim" },
   { import = "astrocommunity.note-taking.obsidian-nvim" },
   { import = "astrocommunity.colorscheme.sonokai" },
+  { import = "astrocommunity.diagnostics.trouble-nvim" },
+  { import = "astrocommunity.scrolling.mini-animate" },
 }
