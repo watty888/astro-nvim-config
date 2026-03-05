@@ -11,7 +11,6 @@ return {
   { import = "astrocommunity.pack.eslint" },
   { import = "astrocommunity.completion.avante-nvim" },
   { import = "astrocommunity.split-and-window.minimap-vim" },
-  { import = "astrocommunity.note-taking.obsidian-nvim" },
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.diagnostics.trouble-nvim" },
   { import = "astrocommunity.scrolling.mini-animate" },
