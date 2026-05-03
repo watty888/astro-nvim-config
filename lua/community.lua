@@ -6,13 +6,11 @@
 return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.lua" },
+  { import = "astrocommunity.pack.java" },
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.prettier" },
   { import = "astrocommunity.pack.eslint" },
-  { import = "astrocommunity.completion.avante-nvim" },
-  { import = "astrocommunity.split-and-window.minimap-vim" },
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.diagnostics.trouble-nvim" },
   { import = "astrocommunity.scrolling.mini-animate" },
-  { import = "astrocommunity.recipes.vscode" },
 }
